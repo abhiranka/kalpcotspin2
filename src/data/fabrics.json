@@ -1,27 +1,6 @@
 [
   {
     "id": 1,
-    "sortNo": "KD-1452",
-    "category": "SHIRTING",
-    "construction": "",
-    "weave": "2/1 RHT",
-    "width": "65-67",
-    "weight": 5.5,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "4±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Poly stretch",
-    "images": [
-      "/images/KD-1452-1.jpg",
-      "/images/KD-1452-2.jpg",
-      "/images/KD-1452-3.jpg",
-      "/images/KD-1452-4.jpg"
-    ]
-  },
-  {
-    "id": 2,
     "sortNo": "KD-1453",
     "category": "SHIRTING",
     "construction": "",
@@ -37,7 +16,7 @@
     "images": []
   },
   {
-    "id": 3,
+    "id": 2,
     "sortNo": "KD-1455",
     "category": "SHIRTING",
     "construction": "",
@@ -55,6 +34,27 @@
       "/images/KD-1455-2.jpg",
       "/images/KD-1455-3.jpg",
       "/images/KD-1455-4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "sortNo": "63150",
+    "category": "SHIRTING",
+    "construction": "",
+    "weave": "2/1RHT",
+    "width": "66-68",
+    "weight": 7,
+    "shade": "Indigo",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly",
+    "images": [
+      "/images/63150-1.jpg",
+      "/images/63150-2.jpg",
+      "/images/63150-3.jpg",
+      "/images/63150-4.jpg"
     ]
   },
   {
@@ -80,6 +80,22 @@
   },
   {
     "id": 5,
+    "sortNo": "76150",
+    "category": "DOBBY",
+    "construction": "",
+    "weave": "3/1 DOBBY",
+    "width": "76-78",
+    "weight": 8,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "12±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": []
+  },
+  {
+    "id": 6,
     "sortNo": "86150",
     "category": "DOBBY",
     "construction": "",
@@ -99,7 +115,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "sortNo": "91484",
     "category": "DOBBY",
     "construction": "",
@@ -119,7 +135,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "sortNo": "96150",
     "category": "DOBBY",
     "construction": "",
@@ -139,7 +155,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "sortNo": "KD-1484",
     "category": "DOBBY",
     "construction": "",
@@ -159,40 +175,51 @@
     ]
   },
   {
-    "id": 9,
-    "sortNo": "10272",
-    "category": "KNIT",
-    "construction": "",
-    "weave": "Knit",
-    "width": "72-74",
-    "weight": 12.25,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "12±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Stretch",
-    "images": []
-  },
-  {
     "id": 10,
-    "sortNo": "10273",
-    "category": "KNIT",
+    "sortNo": "KD-1492",
+    "category": "DOBBY",
     "construction": "",
-    "weave": "Knit",
-    "width": "72-74",
-    "weight": 12.25,
+    "weave": "3/1 DOBBY",
+    "width": "81-83",
+    "weight": 7.25,
     "shade": "INDIGO",
     "warpShrinkage": "",
-    "weftShrinkage": "12±2",
+    "weftShrinkage": "2±1",
     "composition": "",
     "finish": "",
-    "type": "Cotton Stretch",
-    "images": []
+    "type": "Cotton Poly",
+    "images": [
+      "/images/KD-1492-1.jpg",
+      "/images/KD-1492-2.jpg",
+      "/images/KD-1492-3.jpg",
+      "/images/KD-1492-4.jpg"
+    ]
   },
   {
     "id": 11,
-    "sortNo": "51033",
+    "sortNo": "KD-1493",
+    "category": "DOBBY",
+    "construction": "",
+    "weave": "3/1 DOBBY",
+    "width": "75-77",
+    "weight": 7.75,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "7±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": [
+      "/images/KD-1493-1.jpg",
+      "/images/KD-1493-2 .jpg",
+      "/images/KD-1493-2.jpg",
+      "/images/KD-1493-3.jpg",
+      "/images/KD-1493-4.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "sortNo": "51034",
     "category": "KNIT",
     "construction": "",
     "weave": "Knit",
@@ -204,10 +231,15 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Stretch",
-    "images": []
+    "images": [
+      "/images/51034-1.jpg",
+      "/images/51034-2.jpg",
+      "/images/51034-3.jpg",
+      "/images/51034-4.jpg"
+    ]
   },
   {
-    "id": 12,
+    "id": 13,
     "sortNo": "51081",
     "category": "KNIT",
     "construction": "",
@@ -227,7 +259,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 14,
     "sortNo": "51265",
     "category": "KNIT",
     "construction": "",
@@ -247,13 +279,54 @@
     ]
   },
   {
-    "id": 14,
+    "id": 15,
+    "sortNo": "74044",
+    "category": "KNIT",
+    "construction": "",
+    "weave": "Knit",
+    "width": "78-80",
+    "weight": 12,
+    "shade": "ECRU",
+    "warpShrinkage": "",
+    "weftShrinkage": "12±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": [
+      "/images/74044-1.jpg",
+      "/images/74044-2.jpg",
+      "/images/74044-3.jpg",
+      "/images/74044-4.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "sortNo": "75044",
+    "category": "KNIT",
+    "construction": "",
+    "weave": "Knit",
+    "width": "78-80",
+    "weight": 12,
+    "shade": "ECRU",
+    "warpShrinkage": "",
+    "weftShrinkage": "12±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": [
+      "/images/75044-1.jpg",
+      "/images/75044-2.jpg",
+      "/images/75044-3.jpg"
+    ]
+  },
+  {
+    "id": 17,
     "sortNo": "81250",
     "category": "KNIT",
     "construction": "",
     "weave": "Knit",
     "width": "64-66",
-    "weight": 12.25,
+    "weight": 12.75,
     "shade": "IBST",
     "warpShrinkage": "",
     "weftShrinkage": "12±2",
@@ -268,23 +341,7 @@
     ]
   },
   {
-    "id": 15,
-    "sortNo": "81303",
-    "category": "KNIT",
-    "construction": "",
-    "weave": "Knit",
-    "width": "68-70",
-    "weight": 13.25,
-    "shade": "IBST",
-    "warpShrinkage": "",
-    "weftShrinkage": "12±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Poly stretch",
-    "images": []
-  },
-  {
-    "id": 16,
+    "id": 18,
     "sortNo": "81304",
     "category": "KNIT",
     "construction": "",
@@ -300,13 +357,13 @@
     "images": []
   },
   {
-    "id": 17,
+    "id": 19,
     "sortNo": "91250",
     "category": "KNIT",
     "construction": "",
     "weave": "Knit",
     "width": "64-66",
-    "weight": 12.25,
+    "weight": 12.75,
     "shade": "BLACK",
     "warpShrinkage": "",
     "weftShrinkage": "12±2",
@@ -321,7 +378,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 20,
     "sortNo": "91303",
     "category": "KNIT",
     "construction": "",
@@ -337,7 +394,7 @@
     "images": []
   },
   {
-    "id": 19,
+    "id": 21,
     "sortNo": "91304",
     "category": "KNIT",
     "construction": "",
@@ -358,13 +415,13 @@
     ]
   },
   {
-    "id": 20,
+    "id": 22,
     "sortNo": "709273",
     "category": "KNIT",
     "construction": "",
     "weave": "Knit",
     "width": "74-76",
-    "weight": 12,
+    "weight": 12.5,
     "shade": "INDIGO",
     "warpShrinkage": "",
     "weftShrinkage": "12±2",
@@ -378,7 +435,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 23,
     "sortNo": "KALP-450",
     "category": "KNIT",
     "construction": "",
@@ -394,7 +451,7 @@
     "images": []
   },
   {
-    "id": 22,
+    "id": 24,
     "sortNo": "KD-1139",
     "category": "KNIT",
     "construction": "",
@@ -410,13 +467,13 @@
     "images": []
   },
   {
-    "id": 23,
+    "id": 25,
     "sortNo": "KD-1144",
     "category": "KNIT",
     "construction": "",
     "weave": "Knit",
     "width": "76-78",
-    "weight": 12,
+    "weight": 12.5,
     "shade": "INDIGO",
     "warpShrinkage": "",
     "weftShrinkage": "12±2",
@@ -426,13 +483,13 @@
     "images": []
   },
   {
-    "id": 24,
+    "id": 26,
     "sortNo": "KD-1250",
     "category": "KNIT",
     "construction": "",
     "weave": "Knit",
     "width": "64-66",
-    "weight": 12.25,
+    "weight": 12.75,
     "shade": "Magnum Blue",
     "warpShrinkage": "",
     "weftShrinkage": "15±2",
@@ -446,7 +503,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 27,
     "sortNo": "KD-1302",
     "category": "KNIT",
     "construction": "",
@@ -467,7 +524,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 28,
     "sortNo": "KD-1303",
     "category": "KNIT",
     "construction": "",
@@ -488,7 +545,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 29,
     "sortNo": "KD-1303 W",
     "category": "KNIT",
     "construction": "",
@@ -504,7 +561,7 @@
     "images": []
   },
   {
-    "id": 28,
+    "id": 30,
     "sortNo": "KD-1304",
     "category": "KNIT",
     "construction": "",
@@ -520,7 +577,7 @@
     "images": []
   },
   {
-    "id": 29,
+    "id": 31,
     "sortNo": "KD-1304 W",
     "category": "KNIT",
     "construction": "",
@@ -536,7 +593,7 @@
     "images": []
   },
   {
-    "id": 30,
+    "id": 32,
     "sortNo": "KD-1308",
     "category": "KNIT",
     "construction": "",
@@ -556,23 +613,7 @@
     ]
   },
   {
-    "id": 31,
-    "sortNo": "KD-1308W",
-    "category": "KNIT",
-    "construction": "",
-    "weave": "KNIT",
-    "width": "80-82",
-    "weight": 12.5,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "8±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Poly stretch",
-    "images": []
-  },
-  {
-    "id": 32,
+    "id": 33,
     "sortNo": "KD-1309",
     "category": "KNIT",
     "construction": "",
@@ -592,7 +633,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 34,
     "sortNo": "KD-1309 W",
     "category": "KNIT",
     "construction": "",
@@ -608,23 +649,117 @@
     "images": []
   },
   {
-    "id": 34,
-    "sortNo": "KD-1449",
+    "id": 35,
+    "sortNo": "KD-1322",
     "category": "KNIT",
     "construction": "",
     "weave": "Knit",
-    "width": "68-70",
+    "width": "63-65",
     "weight": 13.25,
     "shade": "INDIGO",
     "warpShrinkage": "",
-    "weftShrinkage": "12±2",
+    "weftShrinkage": "10±2",
     "composition": "",
     "finish": "",
     "type": "Cotton Strech",
     "images": []
   },
   {
-    "id": 35,
+    "id": 36,
+    "sortNo": "KD-1323",
+    "category": "KNIT",
+    "construction": "",
+    "weave": "Knit",
+    "width": "63-65",
+    "weight": 13,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "10±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Strech",
+    "images": []
+  },
+  {
+    "id": 37,
+    "sortNo": "KD-1326",
+    "category": "KNIT",
+    "construction": "",
+    "weave": "Knit",
+    "width": "63-65",
+    "weight": 13,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "10±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Strech",
+    "images": []
+  },
+  {
+    "id": 38,
+    "sortNo": "KD-1330",
+    "category": "KNIT",
+    "construction": "",
+    "weave": "Knit",
+    "width": "60-62",
+    "weight": 12.5,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "10±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Strech",
+    "images": [
+      "/images/KD-1330-1.jpg",
+      "/images/KD-1330-2.jpg",
+      "/images/KD-1330-3.jpg",
+      "/images/KD-1330-4.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "sortNo": "KD-1333",
+    "category": "KNIT",
+    "construction": "",
+    "weave": "Knit",
+    "width": "62-64",
+    "weight": 13.5,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "12±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Strech",
+    "images": [
+      "/images/KD-1333-1.jpg",
+      "/images/KD-1333-2.jpg",
+      "/images/KD-1333-3.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "sortNo": "KD-1392",
+    "category": "KNIT",
+    "construction": "",
+    "weave": "KNIT",
+    "width": "70-72",
+    "weight": 11.25,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "8±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": [
+      "/images/KD-1392-1.jpg",
+      "/images/KD-1392-2.jpg",
+      "/images/KD-1392-3.jpg",
+      "/images/KD-1392-4.jpg"
+    ]
+  },
+  {
+    "id": 41,
     "sortNo": "KD-1464",
     "category": "KNIT",
     "construction": "",
@@ -645,7 +780,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 42,
     "sortNo": "KD-1464W",
     "category": "KNIT",
     "construction": "",
@@ -661,7 +796,7 @@
     "images": []
   },
   {
-    "id": 37,
+    "id": 43,
     "sortNo": "KD-1465",
     "category": "KNIT",
     "construction": "",
@@ -677,7 +812,7 @@
     "images": []
   },
   {
-    "id": 38,
+    "id": 44,
     "sortNo": "KD-1465W",
     "category": "KNIT",
     "construction": "",
@@ -693,7 +828,7 @@
     "images": []
   },
   {
-    "id": 39,
+    "id": 45,
     "sortNo": "KD-1466",
     "category": "KNIT",
     "construction": "",
@@ -709,7 +844,7 @@
     "images": []
   },
   {
-    "id": 40,
+    "id": 46,
     "sortNo": "KD-1466W",
     "category": "KNIT",
     "construction": "",
@@ -725,7 +860,7 @@
     "images": []
   },
   {
-    "id": 41,
+    "id": 47,
     "sortNo": "KD-1467",
     "category": "KNIT",
     "construction": "",
@@ -741,7 +876,7 @@
     "images": []
   },
   {
-    "id": 42,
+    "id": 48,
     "sortNo": "KD-1467W",
     "category": "KNIT",
     "construction": "",
@@ -757,7 +892,7 @@
     "images": []
   },
   {
-    "id": 43,
+    "id": 49,
     "sortNo": "KD-1483",
     "category": "KNIT",
     "construction": "",
@@ -773,23 +908,7 @@
     "images": []
   },
   {
-    "id": 44,
-    "sortNo": "KD-1470",
-    "category": "SATIN",
-    "construction": "",
-    "weave": "4/1 SATIN",
-    "width": "70-72",
-    "weight": 9.5,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "12±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Poly stretch",
-    "images": []
-  },
-  {
-    "id": 45,
+    "id": 50,
     "sortNo": "KD-1476",
     "category": "SATIN",
     "construction": "",
@@ -809,7 +928,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 51,
     "sortNo": "KD-1287",
     "category": "SATIN",
     "construction": "",
@@ -829,23 +948,28 @@
     ]
   },
   {
-    "id": 47,
-    "sortNo": "KD-1310",
+    "id": 52,
+    "sortNo": "KD-1389",
     "category": "SATIN",
     "construction": "",
     "weave": "4/1-SATIN",
-    "width": "68-70",
-    "weight": 11,
+    "width": "78-80",
+    "weight": 9.5,
     "shade": "ECRU",
     "warpShrinkage": "",
-    "weftShrinkage": "12±2",
+    "weftShrinkage": "14±2",
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1389-1.jpg",
+      "/images/KD-1389-2.jpg",
+      "/images/KD-1389-3.jpg",
+      "/images/KD-1389-4.jpg"
+    ]
   },
   {
-    "id": 48,
+    "id": 53,
     "sortNo": "KD-1442",
     "category": "SATIN",
     "construction": "",
@@ -866,7 +990,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 54,
     "sortNo": "KD-1446",
     "category": "SATIN",
     "construction": "",
@@ -886,25 +1010,9 @@
     ]
   },
   {
-    "id": 50,
-    "sortNo": "KD-1448",
-    "category": "SATIN",
-    "construction": "",
-    "weave": "4/1-SATIN",
-    "width": "64-66",
-    "weight": 10.25,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "10±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Poly stretch",
-    "images": []
-  },
-  {
-    "id": 51,
+    "id": 55,
     "sortNo": "KD-1390",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 LHT",
     "width": "79-81",
@@ -923,9 +1031,9 @@
     ]
   },
   {
-    "id": 52,
+    "id": 56,
     "sortNo": "KD-1403",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 LHT",
     "width": "67-69",
@@ -943,9 +1051,30 @@
     ]
   },
   {
-    "id": 53,
+    "id": 57,
+    "sortNo": "KD-1416",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 LHT",
+    "width": "78-80",
+    "weight": 14,
+    "shade": "ECRU",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Cotton",
+    "images": [
+      "/images/KD-1416-1.jpg",
+      "/images/KD-1416-2.jpg",
+      "/images/KD-1416-3.jpg",
+      "/images/KD-1416-4.jpg"
+    ]
+  },
+  {
+    "id": 58,
     "sortNo": "KD-1419",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 LHT",
     "width": "77-79",
@@ -959,29 +1088,9 @@
     "images": []
   },
   {
-    "id": 54,
-    "sortNo": "KD-1420",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 LHT",
-    "width": "77-79",
-    "weight": 12,
-    "shade": "ECRU",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Poly Cotton",
-    "images": [
-      "/images/kd-1420-1.jpg",
-      "/images/kd-1420-2.jpg",
-      "/images/KD-1420-3.jpg"
-    ]
-  },
-  {
-    "id": 55,
+    "id": 59,
     "sortNo": "KD-1439",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 LHT",
     "width": "77-79",
@@ -998,87 +1107,14 @@
     ]
   },
   {
-    "id": 56,
-    "sortNo": "KD-1440",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 LHT",
-    "width": "77-79",
-    "weight": 12,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Poly Cotton",
-    "images": [
-      "/images/KD-1440-1.jpg",
-      "/images/KD-1440-3.jpg",
-      "/images/KD-1440-4.jpg"
-    ]
-  },
-  {
-    "id": 57,
-    "sortNo": "KD-1444",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 LHT",
-    "width": "68-70",
-    "weight": 11,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "8±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Poly stretch",
-    "images": []
-  },
-  {
-    "id": 58,
-    "sortNo": "KD-1454",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 LHT",
-    "width": "68-70",
-    "weight": 12,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "10±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Stretch",
-    "images": [
-      "/images/KD-1454-1.jpg",
-      "/images/KD-1454-2.jpg",
-      "/images/KD-1454-3.jpg",
-      "/images/KD-1454-4.jpg"
-    ]
-  },
-  {
-    "id": 59,
-    "sortNo": "KD-1459",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 LHT",
-    "width": "78-80",
-    "weight": 10,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Cotton",
-    "images": []
-  },
-  {
     "id": 60,
-    "sortNo": "KD-1463",
-    "category": "3-1",
+    "sortNo": "21451",
+    "category": "3-1 RIGID",
     "construction": "",
-    "weave": "3/1 LHT",
+    "weave": "3/1 RHT",
     "width": "78-80",
-    "weight": 12.5,
-    "shade": "INDIGO",
+    "weight": 11.25,
+    "shade": "ECRU",
     "warpShrinkage": "",
     "weftShrinkage": "2±1",
     "composition": "",
@@ -1088,61 +1124,29 @@
   },
   {
     "id": 61,
-    "sortNo": "KD-1469",
-    "category": "3-1",
+    "sortNo": "KD-1283",
+    "category": "3-1 RIGID",
     "construction": "",
-    "weave": "3/1 LHT",
-    "width": "64-66",
-    "weight": 11,
+    "weave": "3/1 RHT",
+    "width": "67-69",
+    "weight": 12.75,
     "shade": "INDIGO",
     "warpShrinkage": "",
     "weftShrinkage": "2±1",
     "composition": "",
     "finish": "",
     "type": "Rigid Cotton",
-    "images": []
-  },
-  {
-    "id": 62,
-    "sortNo": "KD-1471",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 LHT",
-    "width": "78-80",
-    "weight": 12,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Poly Cotton",
-    "images": []
-  },
-  {
-    "id": 63,
-    "sortNo": "KD-1494",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 LHT",
-    "width": "69-71",
-    "weight": 12,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "7±2",
-    "composition": "",
-    "finish": "",
-    "type": "Cotton Poly stretch",
     "images": [
-      "/images/KD-1494-1.jpg",
-      "/images/KD-1494-2.jpg",
-      "/images/KD-1494-3.jpg",
-      "/images/KD-1494-4.jpg"
+      "/images/KD-1283-1.jpg",
+      "/images/KD-1283-2.jpg",
+      "/images/KD-1283-3.jpg",
+      "/images/KD-1283-4.jpg"
     ]
   },
   {
-    "id": 64,
+    "id": 62,
     "sortNo": "KD-1284",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 RHT",
     "width": "67-69",
@@ -1160,13 +1164,13 @@
     ]
   },
   {
-    "id": 65,
+    "id": 63,
     "sortNo": "KD-1381",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 RHT",
     "width": "68-70",
-    "weight": 14.5,
+    "weight": 14.75,
     "shade": "INDIGO",
     "warpShrinkage": "",
     "weftShrinkage": "2±1",
@@ -1176,45 +1180,9 @@
     "images": []
   },
   {
-    "id": 66,
-    "sortNo": "KD-1398",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 RHT",
-    "width": "68-70",
-    "weight": 13.75,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Poly Cotton",
-    "images": []
-  },
-  {
-    "id": 67,
-    "sortNo": "KD-1399",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 RHT",
-    "width": "68-70",
-    "weight": 14.25,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Poly Cotton",
-    "images": [
-      "/images/KD-1399-1.jpg",
-      "/images/KD-1399-3.jpg",
-      "/images/KD-1399-4.jpg"
-    ]
-  },
-  {
-    "id": 68,
+    "id": 64,
     "sortNo": "KD-1400",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 RHT",
     "width": "68-70",
@@ -1228,9 +1196,9 @@
     "images": []
   },
   {
-    "id": 69,
+    "id": 65,
     "sortNo": "KD-1451",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 RHT",
     "width": "78-80",
@@ -1249,57 +1217,9 @@
     ]
   },
   {
-    "id": 70,
-    "sortNo": "KD-1458",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 RHT",
-    "width": "67-69",
-    "weight": 13.25,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Cotton",
-    "images": []
-  },
-  {
-    "id": 71,
-    "sortNo": "KD-1460",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 RHT",
-    "width": "64-66",
-    "weight": 9.25,
-    "shade": "INDIGO",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Cotton",
-    "images": []
-  },
-  {
-    "id": 72,
-    "sortNo": "KD-1461",
-    "category": "3-1",
-    "construction": "",
-    "weave": "3/1 RHT",
-    "width": "68-70",
-    "weight": 14.25,
-    "shade": "IBST",
-    "warpShrinkage": "",
-    "weftShrinkage": "2±1",
-    "composition": "",
-    "finish": "",
-    "type": "Rigid Cotton",
-    "images": []
-  },
-  {
-    "id": 73,
+    "id": 66,
     "sortNo": "KD-1477",
-    "category": "3-1",
+    "category": "3-1 RIGID",
     "construction": "",
     "weave": "3/1 RHT",
     "width": "77-79",
@@ -1316,25 +1236,414 @@
     ]
   },
   {
-    "id": 74,
-    "sortNo": "KD-1478",
-    "category": "3-1",
+    "id": 67,
+    "sortNo": "41283",
+    "category": "3-1 RIGID",
     "construction": "",
-    "weave": "3/1 RHT",
-    "width": "78-80",
-    "weight": 12.5,
+    "weave": "3/1 LHT",
+    "width": "67-69",
+    "weight": 12.75,
     "shade": "INDIGO",
     "warpShrinkage": "",
     "weftShrinkage": "2±1",
     "composition": "",
     "finish": "",
-    "type": "Rigid Cotton",
+    "type": "Rigid Poly Cotton",
+    "images": []
+  },
+  {
+    "id": 68,
+    "sortNo": "KD-1420",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 LHT",
+    "width": "77-79",
+    "weight": 12,
+    "shade": "ECRU",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/kd-1420-1.jpg",
+      "/images/kd-1420-2.jpg",
+      "/images/KD-1420-3.jpg"
+    ]
+  },
+  {
+    "id": 69,
+    "sortNo": "KD-1440",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 LHT",
+    "width": "77-79",
+    "weight": 12,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1440-1.jpg",
+      "/images/KD-1440-3.jpg",
+      "/images/KD-1440-4.jpg"
+    ]
+  },
+  {
+    "id": 70,
+    "sortNo": "51440",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "77-79",
+    "weight": 12,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/51440-1.jpg",
+      "/images/51440-2.jpg",
+      "/images/51440-3.jpg",
+      "/images/51440-4.jpg"
+    ]
+  },
+  {
+    "id": 71,
+    "sortNo": "KD-1382",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "72-74",
+    "weight": 14,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": []
+  },
+  {
+    "id": 72,
+    "sortNo": "KD-1386",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "71-73",
+    "weight": 13.75,
+    "shade": "IBST",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1386-1.jpg",
+      "/images/KD-1386-2.jpg",
+      "/images/KD-1386-3.jpg"
+    ]
+  },
+  {
+    "id": 73,
+    "sortNo": "KD-1387",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "71-73",
+    "weight": 13.75,
+    "shade": "BLACk",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": []
+  },
+  {
+    "id": 74,
+    "sortNo": "KD-1398",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "68-70",
+    "weight": 13.75,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
     "images": []
   },
   {
     "id": 75,
+    "sortNo": "KD-1399",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "68-70",
+    "weight": 14.25,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1399-1.jpg",
+      "/images/KD-1399-3.jpg",
+      "/images/KD-1399-4.jpg"
+    ]
+  },
+  {
+    "id": 76,
+    "sortNo": "KD-1402",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "74-76",
+    "weight": 12,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1402-1.jpg",
+      "/images/KD-1402-2.jpg",
+      "/images/KD-1402-3.jpg"
+    ]
+  },
+  {
+    "id": 77,
+    "sortNo": "KD-1405",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "68-70",
+    "weight": 14.5,
+    "shade": "BLACK",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1405-1.jpg",
+      "/images/KD-1405-2.jpg",
+      "/images/KD-1405-3.jpg"
+    ]
+  },
+  {
+    "id": 78,
+    "sortNo": "KD-1408",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "68-70",
+    "weight": 14.5,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1408-1.jpg",
+      "/images/KD-1408-2.jpg",
+      "/images/KD-1408-3.jpg",
+      "/images/KD-1408-4.jpg"
+    ]
+  },
+  {
+    "id": 79,
+    "sortNo": "KD-1425",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "67-69",
+    "weight": 14.25,
+    "shade": "BLACK",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1425-1.jpg",
+      "/images/KD-1425-2.jpg",
+      "/images/KD-1425-3.jpg",
+      "/images/KD-1425-4.jpg"
+    ]
+  },
+  {
+    "id": 80,
+    "sortNo": "KD-1426",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "67-69",
+    "weight": 13.75,
+    "shade": "BLACK",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": []
+  },
+  {
+    "id": 81,
+    "sortNo": "KD-1427",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "68-70",
+    "weight": 13.75,
+    "shade": "BLACK",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid Poly Cotton",
+    "images": [
+      "/images/KD-1427-1.jpg",
+      "/images/KD-1427-2.jpg",
+      "/images/KD-1427-3.jpg",
+      "/images/KD-1427-4.jpg"
+    ]
+  },
+  {
+    "id": 82,
+    "sortNo": "KD-1451 PC",
+    "category": "3-1 RIGID",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "78-80",
+    "weight": 11.25,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "2±1",
+    "composition": "",
+    "finish": "",
+    "type": "Rigid poly Cotton",
+    "images": []
+  },
+  {
+    "id": 83,
+    "sortNo": "KD-1494",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 LHT",
+    "width": "69-71",
+    "weight": 12,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "7±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": [
+      "/images/KD-1494-1.jpg",
+      "/images/KD-1494-2.jpg",
+      "/images/KD-1494-3.jpg",
+      "/images/KD-1494-4.jpg"
+    ]
+  },
+  {
+    "id": 84,
+    "sortNo": "5001",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "63-65",
+    "weight": 11.5,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "13±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": [
+      "/images/5001-1.jpg",
+      "/images/5001-3.jpg",
+      "/images/5001-4.jpg"
+    ]
+  },
+  {
+    "id": 85,
+    "sortNo": "KD-1355",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "64-66",
+    "weight": 11.75,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "8±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": []
+  },
+  {
+    "id": 86,
+    "sortNo": "KD-1356",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "67-69",
+    "weight": 11.5,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "8±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": []
+  },
+  {
+    "id": 87,
+    "sortNo": "KD-1371",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "65-67",
+    "weight": 12.5,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "7±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": []
+  },
+  {
+    "id": 88,
+    "sortNo": "KD-1383",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "71-73",
+    "weight": 11.25,
+    "shade": "ECRU",
+    "warpShrinkage": "",
+    "weftShrinkage": "10±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Poly stretch",
+    "images": []
+  },
+  {
+    "id": 89,
     "sortNo": "KD-1479",
-    "category": "3-1",
+    "category": "3-1 LYCRA",
     "construction": "",
     "weave": "3/1 RHT",
     "width": "72-74",
@@ -1351,9 +1660,9 @@
     ]
   },
   {
-    "id": 76,
+    "id": 90,
     "sortNo": "KD-1482",
-    "category": "3-1",
+    "category": "3-1 LYCRA",
     "construction": "",
     "weave": "3/1 RHT",
     "width": "72-74",
@@ -1365,5 +1674,47 @@
     "finish": "",
     "type": "Cotton Poly stretch",
     "images": []
+  },
+  {
+    "id": 91,
+    "sortNo": "KD-1454",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 LHT",
+    "width": "68-70",
+    "weight": 12,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "10±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton Stretch",
+    "images": [
+      "/images/KD-1454-1.jpg",
+      "/images/KD-1454-2.jpg",
+      "/images/KD-1454-3.jpg",
+      "/images/KD-1454-4.jpg"
+    ]
+  },
+  {
+    "id": 92,
+    "sortNo": "KD-1285",
+    "category": "3-1 LYCRA",
+    "construction": "",
+    "weave": "3/1 RHT",
+    "width": "63-65",
+    "weight": 13.5,
+    "shade": "INDIGO",
+    "warpShrinkage": "",
+    "weftShrinkage": "14±2",
+    "composition": "",
+    "finish": "",
+    "type": "Cotton stretch",
+    "images": [
+      "/images/KD-1285-3.jpg",
+      "/images/KD-1285.1.jpg",
+      "/images/KD-1285.2.jpg",
+      "/images/KD-1285.4.jpg"
+    ]
   }
 ]
