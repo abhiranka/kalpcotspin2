@@ -13,7 +13,12 @@
     "composition": "",
     "finish": "",
     "type": "Rigid Cotton",
-    "images": []
+    "images": [
+      "/images/KD-1453-1.jpg",
+      "/images/KD-1453-2.jpg",
+      "/images/KD-1453-3.jpg",
+      "/images/KD-1453-4.jpg"
+    ]
   },
   {
     "id": 2,
@@ -92,7 +97,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/76150-1.jpg",
+      "/images/76150-2.jpg",
+      "/images/76150-3.jpg",
+      "/images/76150-4.jpg"
+    ]
   },
   {
     "id": 6,
@@ -110,6 +120,7 @@
     "type": "Cotton Poly stretch",
     "images": [
       "/images/86150-1.jpg",
+      "/images/86150-2.jpg",
       "/images/86150-3.jpg",
       "/images/86150-4.jpg"
     ]
@@ -131,7 +142,8 @@
     "images": [
       "/images/91484-1.JPG",
       "/images/91484-2.jpg",
-      "/images/91484-3.jpg"
+      "/images/91484-3.jpg",
+      "/images/91484-4.jpg"
     ]
   },
   {
@@ -151,7 +163,8 @@
     "images": [
       "/images/96150-1.jpg",
       "/images/96150-2.jpg",
-      "/images/96150-3.jpg"
+      "/images/96150-3.jpg",
+      "/images/96150-4.jpg"
     ]
   },
   {
@@ -171,7 +184,8 @@
     "images": [
       "/images/KD-1484-1.jpg",
       "/images/KD-1484-2.jpg",
-      "/images/KD-1484-3.jpg"
+      "/images/KD-1484-3.jpg",
+      "/images/KD-1484-4.jpg"
     ]
   },
   {
@@ -253,6 +267,7 @@
     "finish": "",
     "type": "Cotton Poly stretch",
     "images": [
+      "/images/51081-1.jpg",
       "/images/51081-2.jpg",
       "/images/51081-3.jpg",
       "/images/51081-4.jpg"
@@ -316,7 +331,8 @@
     "images": [
       "/images/75044-1.jpg",
       "/images/75044-2.jpg",
-      "/images/75044-3.jpg"
+      "/images/75044-3.jpg",
+      "/images/75044-4.jpg"
     ]
   },
   {
@@ -431,7 +447,8 @@
     "images": [
       "/images/709273-1.jpg",
       "/images/709273-2.jpg",
-      "/images/709273-3.jpg"
+      "/images/709273-3.jpg",
+      "/images/709273-4.jpg"
     ]
   },
   {
@@ -448,7 +465,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KALP-450-1.jpg",
+      "/images/KALP-450-2.jpg",
+      "/images/KALP-450-3.jpg",
+      "/images/KALP-450-4.jpg"
+    ]
   },
   {
     "id": 24,
@@ -464,7 +486,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1139-1.jpg",
+      "/images/KD-1139-2.jpg",
+      "/images/KD-1139-3.jpg",
+      "/images/KD-1139-4.jpg"
+    ]
   },
   {
     "id": 25,
@@ -480,7 +507,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1144-1.jpg",
+      "/images/KD-1144-2.jpg",
+      "/images/KD-1144-3.jpg",
+      "/images/KD-1144-4.jpg"
+    ]
   },
   {
     "id": 26,
@@ -499,7 +531,8 @@
     "images": [
       "/images/KD-1250-1.jpg",
       "/images/KD-1250-2.jpg",
-      "/images/KD-1250-3.jpg"
+      "/images/KD-1250-3.jpg",
+      "/images/KD-1250-4.jpg"
     ]
   },
   {
@@ -541,7 +574,11 @@
       "/images/KD-1303-1.jpg",
       "/images/KD-1303-2.jpg",
       "/images/KD-1303-3.jpg",
-      "/images/KD-1303-4.jpg"
+      "/images/KD-1303-4.jpg",
+      "/images/KD-1303W-1.jpg",
+      "/images/KD-1303W-2.jpg",
+      "/images/KD-1303W-3.jpg",
+      "/images/KD-1303W-4.jpg"
     ]
   },
   {
@@ -574,7 +611,16 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1304-1.jpg",
+      "/images/KD-1304-2.jpg",
+      "/images/KD-1304-3.jpg",
+      "/images/KD-1304-4.jpg",
+      "/images/KD-1304W-1.jpg",
+      "/images/KD-1304W-2.jpg",
+      "/images/KD-1304W-3.jpg",
+      "/images/KD-1304W-4.jpg"
+    ]
   },
   {
     "id": 31,
@@ -609,7 +655,8 @@
     "images": [
       "/images/KD-1308-1.jpg",
       "/images/KD-1308-2.jpg",
-      "/images/KD-1308-3.jpg"
+      "/images/KD-1308-3.jpg",
+      "/images/KD-1308-4.jpg"
     ]
   },
   {
@@ -629,7 +676,12 @@
     "images": [
       "/images/KD-1309-1.jpg",
       "/images/KD-1309-2.jpg",
-      "/images/KD-1309-3.jpg"
+      "/images/KD-1309-3.jpg",
+      "/images/KD-1309-4.jpg",
+      "/images/KD-1309W-1.jpg",
+      "/images/KD-1309W-2.jpg",
+      "/images/KD-1309W-3.jpg",
+      "/images/KD-1309W-4.jpg"
     ]
   },
   {
@@ -662,7 +714,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Strech",
-    "images": []
+    "images": [
+      "/images/KD-1322-1.jpg",
+      "/images/KD-1322-2.jpg",
+      "/images/KD-1322-3.jpg",
+      "/images/KD-1322-4.jpg"
+    ]
   },
   {
     "id": 36,
@@ -694,7 +751,11 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Strech",
-    "images": []
+    "images": [
+      "/images/KD-1326-1.jpg",
+      "/images/KD-1326-3.jpg",
+      "/images/KD-1326-4.jpg"
+    ]
   },
   {
     "id": 38,
@@ -776,7 +837,11 @@
       "/images/KD-1464-1.jpg",
       "/images/KD-1464-2.jpg",
       "/images/KD-1464-3.jpg",
-      "/images/KD-1464-4.jpg"
+      "/images/KD-1464-4.jpg",
+      "/images/KD-1464W-1.jpg",
+      "/images/KD-1464W-2.jpg",
+      "/images/KD-1464W-3.jpg",
+      "/images/KD-1464W-4.jpg"
     ]
   },
   {
@@ -793,7 +858,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1464W-1.jpg",
+      "/images/KD-1464W-2.jpg",
+      "/images/KD-1464W-3.jpg",
+      "/images/KD-1464W-4.jpg"
+    ]
   },
   {
     "id": 43,
@@ -809,7 +879,16 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1465-1.jpg",
+      "/images/KD-1465-2.jpg",
+      "/images/KD-1465-3.jpg",
+      "/images/KD-1465-4.jpg",
+      "/images/KD-1465W-1.jpg",
+      "/images/KD-1465W-2.jpg",
+      "/images/KD-1465W-3.jpg",
+      "/images/KD-1465W-4.jpg"
+    ]
   },
   {
     "id": 44,
@@ -825,7 +904,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1465W-1.jpg",
+      "/images/KD-1465W-2.jpg",
+      "/images/KD-1465W-3.jpg",
+      "/images/KD-1465W-4.jpg"
+    ]
   },
   {
     "id": 45,
@@ -841,7 +925,16 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1466-1.jpg",
+      "/images/KD-1466-2.jpg",
+      "/images/KD-1466-3.jpg",
+      "/images/KD-1466-4.jpg",
+      "/images/KD-1466W-1.jpg",
+      "/images/KD-1466W-2.jpg",
+      "/images/KD-1466W-3.jpg",
+      "/images/KD-1466W-4.jpg"
+    ]
   },
   {
     "id": 46,
@@ -857,7 +950,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1466W-1.jpg",
+      "/images/KD-1466W-2.jpg",
+      "/images/KD-1466W-3.jpg",
+      "/images/KD-1466W-4.jpg"
+    ]
   },
   {
     "id": 47,
@@ -873,7 +971,16 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1467-1.jpg",
+      "/images/KD-1467-2.jpg",
+      "/images/KD-1467-3.jpg",
+      "/images/KD-1467-4.jpg",
+      "/images/KD-1467W-1.jpg",
+      "/images/KD-1467W-2.jpg",
+      "/images/KD-1467W-3.jpg",
+      "/images/KD-1467W-4.jpg"
+    ]
   },
   {
     "id": 48,
@@ -889,7 +996,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1467W-1.jpg",
+      "/images/KD-1467W-2.jpg",
+      "/images/KD-1467W-3.jpg",
+      "/images/KD-1467W-4.jpg"
+    ]
   },
   {
     "id": 49,
@@ -924,7 +1036,8 @@
     "images": [
       "/images/KD-1476-1.jpg",
       "/images/KD-1476-2.jpg",
-      "/images/KD-1476-3.jpg"
+      "/images/KD-1476-3.jpg",
+      "/images/KD-1476-4.jpg"
     ]
   },
   {
@@ -1006,7 +1119,8 @@
     "images": [
       "/images/KD-1446-1.jpg",
       "/images/KD-1446-2.jpg",
-      "/images/KD-1446-3.jpg"
+      "/images/KD-1446-3.jpg",
+      "/images/KD-1446-4.jpg"
     ]
   },
   {
@@ -1047,7 +1161,8 @@
     "images": [
       "/images/KD-1403-1.jpg",
       "/images/KD-1403-2.jpg",
-      "/images/KD-1403-3.jpg"
+      "/images/KD-1403-3.jpg",
+      "/images/KD-1403-4.jpg"
     ]
   },
   {
@@ -1085,7 +1200,12 @@
     "composition": "",
     "finish": "",
     "type": "Rigid Cotton",
-    "images": []
+    "images": [
+      "/images/KD-1419-1.jpg",
+      "/images/KD-1419-2.jpg",
+      "/images/KD-1419-3.jpg",
+      "/images/KD-1419-4.jpg"
+    ]
   },
   {
     "id": 59,
@@ -1102,8 +1222,10 @@
     "finish": "",
     "type": "Rigid Cotton",
     "images": [
+      "/images/KD-1439-1.jpg",
       "/images/KD-1439-2.jpg",
-      "/images/KD-1439-3.jpg"
+      "/images/KD-1439-3.jpg",
+      "/images/KD-1439-4.jpg"
     ]
   },
   {
@@ -1120,7 +1242,12 @@
     "composition": "",
     "finish": "",
     "type": "Rigid Cotton",
-    "images": []
+    "images": [
+      "/images/21451-1.jpg",
+      "/images/21451-2.jpg",
+      "/images/21451-3.jpg",
+      "/images/21451-4.jpg"
+    ]
   },
   {
     "id": 61,
@@ -1160,6 +1287,7 @@
     "images": [
       "/images/KD-1284-1.jpg",
       "/images/KD-1284-2.jpg",
+      "/images/KD-1284-3.jpg",
       "/images/KD-1284-4.jpg"
     ]
   },
@@ -1193,7 +1321,12 @@
     "composition": "",
     "finish": "",
     "type": "Rigid Cotton",
-    "images": []
+    "images": [
+      "/images/KD-1400-1.jpg",
+      "/images/KD-1400-2.jpg",
+      "/images/KD-1400-3.jpg",
+      "/images/KD-1400-4.jpg"
+    ]
   },
   {
     "id": 65,
@@ -1232,7 +1365,9 @@
     "type": "Rigid Cotton",
     "images": [
       "/images/KD-1477-1.jpg",
-      "/images/KD-1477-2.jpg"
+      "/images/KD-1477-2.jpg",
+      "/images/KD-1477-3.jpg",
+      "/images/KD-1477-4.jpg"
     ]
   },
   {
@@ -1268,7 +1403,8 @@
     "images": [
       "/images/kd-1420-1.jpg",
       "/images/kd-1420-2.jpg",
-      "/images/KD-1420-3.jpg"
+      "/images/KD-1420-3.jpg",
+      "/images/KD-1420-4.jpg"
     ]
   },
   {
@@ -1287,6 +1423,7 @@
     "type": "Rigid Poly Cotton",
     "images": [
       "/images/KD-1440-1.jpg",
+      "/images/KD-1440-2.jpg",
       "/images/KD-1440-3.jpg",
       "/images/KD-1440-4.jpg"
     ]
@@ -1362,7 +1499,12 @@
     "composition": "",
     "finish": "",
     "type": "Rigid Poly Cotton",
-    "images": []
+    "images": [
+      "/images/KD-1387-1.jpg",
+      "/images/KD-1387-2.jpg",
+      "/images/KD-1387-3.jpg",
+      "/images/KD-1387-4.jpg"
+    ]
   },
   {
     "id": 74,
@@ -1378,7 +1520,12 @@
     "composition": "",
     "finish": "",
     "type": "Rigid Poly Cotton",
-    "images": []
+    "images": [
+      "/images/KD-1398-1.jpg",
+      "/images/KD-1398-2.jpg",
+      "/images/KD-1398-3.jpg",
+      "/images/KD-1398-4.jpg"
+    ]
   },
   {
     "id": 75,
@@ -1437,7 +1584,8 @@
     "images": [
       "/images/KD-1405-1.jpg",
       "/images/KD-1405-2.jpg",
-      "/images/KD-1405-3.jpg"
+      "/images/KD-1405-3.jpg",
+      "/images/KD-1405-4.jpg"
     ]
   },
   {
@@ -1496,7 +1644,12 @@
     "composition": "",
     "finish": "",
     "type": "Rigid Poly Cotton",
-    "images": []
+    "images": [
+      "/images/KD-1426-1.jpg",
+      "/images/KD-1426-2.jpg",
+      "/images/KD-1426-3.jpg",
+      "/images/KD-1426-4.jpg"
+    ]
   },
   {
     "id": 81,
@@ -1572,6 +1725,7 @@
     "type": "Cotton Poly stretch",
     "images": [
       "/images/5001-1.jpg",
+      "/images/5001-2.jpg",
       "/images/5001-3.jpg",
       "/images/5001-4.jpg"
     ]
@@ -1638,7 +1792,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1383-1.jpg",
+      "/images/KD-1383-2.jpg",
+      "/images/KD-1383-3.jpg",
+      "/images/KD-1383-4.jpg"
+    ]
   },
   {
     "id": 89,
@@ -1656,7 +1815,9 @@
     "type": "Cotton Poly stretch",
     "images": [
       "/images/KD-1479-1.jpg",
-      "/images/kd-1479-2.jpg"
+      "/images/kd-1479-2.jpg",
+      "/images/KD-1479-3.jpg",
+      "/images/KD-1479-4.jpg"
     ]
   },
   {
@@ -1673,7 +1834,12 @@
     "composition": "",
     "finish": "",
     "type": "Cotton Poly stretch",
-    "images": []
+    "images": [
+      "/images/KD-1482-1.jpg",
+      "/images/KD-1482-2.jpg",
+      "/images/KD-1482-3.jpg",
+      "/images/KD-1482-4.jpg"
+    ]
   },
   {
     "id": 91,
